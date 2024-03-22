@@ -3,10 +3,10 @@ import csv
 import time
 from twilio.rest import Client
 
-account_sid = 'AC640e5efbb59fcb5ac0a4157057b2064b'
-auth_token = '399170e4baba1135a76a4b738d11bd91'
-twilio_phone_number = '+19512251178'
-recipient_phone_number = ['+918090063403', '+919150465018', '+919884210662']
+account_sid = '****'
+auth_token = '****'
+twilio_phone_number = '+0000'
+recipient_phone_number = ['+0001', '+0002', '+0003']
 
 SERIAL_PORT = 'COM5'  
 
